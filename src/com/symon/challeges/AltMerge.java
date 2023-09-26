@@ -1,7 +1,7 @@
 package com.symon.challeges;
 
 
-public class Main{
+public class AltMerge {
     public static String mergeAlternately(String word1, String word2) {
         int x = 0, y = 0, i = 0;
         int totalLength = word1.length() + word2.length();
