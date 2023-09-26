@@ -16,4 +16,4 @@ word1:  a   b   c
 word2:    p   q   r
 merged: a p b q c r
 
-[My solution]()
+[My solution](https://github.com/SymonMuchemi/Coding-Challenges/blob/master/src/com/symon/challeges/AltMerge.java)
